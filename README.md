@@ -1,6 +1,4 @@
-# Aulão Testes Automatizados com JavaScript Like a Pro - Template
 
-Olá, seja muito bem vindo(a) esse é o template inicial que vamos trabalhar no Aulão.
 
 Você precisará usar o Node.js na versão 20 (ou superior) para executar os exemplos
 ```sh
